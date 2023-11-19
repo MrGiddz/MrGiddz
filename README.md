@@ -15,7 +15,7 @@ I'm excited to connect, learn, and grow alongside fellow tech enthusiasts. Let's
 
 ## 🛠 Skills
 - **Languages:** TypeScript, JavaScript, Java, PHP.
-- **Frameworks & Libraries:** React, Next.js, Node.js, Spring Boot, Laravel.
+- **Frameworks & Libraries:** React, Next.js, Node.js, Nest.js, Spring Boot, Laravel.
 - **Tools & Technologies:** Docker, Git, AWS.
 - **Databases:** MySQL, MongoDB, Postgres Sql.
 
