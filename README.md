@@ -24,6 +24,6 @@ I'm excited to connect, learn, and grow alongside fellow tech enthusiasts. Let's
 ## 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/mideniyi/
 - Twitter: @mide_niyi
-- Email: mailto:mideolaniyi@outlook.com
+- Email: mideolaniyi@outlook.com
 
 "Creativity is intelligence having fun." - Albert Einstein
