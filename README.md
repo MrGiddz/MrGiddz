@@ -1,29 +1,26 @@
-# Hello 👋
-# Welcome to my GitHub profile. 
+# Welcome to My GitHub Profile 👋
 
-I am a passionate and innovative software engineer, I thrive on solving complex problems with elegant, efficient code. With a background in Web and Desktop app Development and a keen interest in Web Development, DevOps, and Automation, I'm always exploring new technologies and methodologies to expand my skill set.
+I’m a driven and innovative software engineer with a passion for crafting efficient, scalable solutions to complex problems. With extensive experience in Web and Desktop application development, coupled with a growing expertise in DevOps, Automation, and cutting-edge technologies, I am constantly seeking opportunities to expand my skill set and stay at the forefront of the tech landscape.
 
-In my coding journey, I value collaboration, continuous learning, and the joy of contributing to the open-source community. When I'm not coding, you might find me exploring new tech trends, reading, gaming, or traveling.
+Throughout my career, collaboration, continuous learning, and making meaningful contributions to the open-source community have been at the core of my journey. Beyond coding, I enjoy exploring emerging tech trends, reading, gaming, and traveling.
 
-I'm excited to connect, learn, and grow alongside fellow tech enthusiasts. Let's code, collaborate, and create amazing things!
+I’m always eager to connect with fellow tech enthusiasts. Let’s innovate, collaborate, and build something extraordinary together!
 
-## 👨‍💻 About Me
-- 🌱 Currently enhancing my skills in DevOps Tools and Practices, Software Testing, and Java.
-- 👯 Looking to collaborate on Open Source projects.
-- 📫 How to reach me: mideolaniyi@outlook.com
-- 🌍  I'm based in Lagos, Nigeria.
+## 👨‍💻 A Little About Me:
+- 🌱 Currently expanding my knowledge in DevOps tools, software testing, and Java.
+- 👯 Actively seeking collaboration opportunities in open-source projects.
+- 📫 Feel free to reach out: [mideolaniyi@outlook.com](mailto:mideolaniyi@outlook.com)
+- 🌍 Based in Lagos, Nigeria.
 
-## 🛠 Skills
-- **Languages:** TypeScript, JavaScript, Java, PHP.
+## 🛠 My Skills:
+- **Programming Languages:** TypeScript, JavaScript, Java, PHP.
 - **Frameworks & Libraries:** React, Next.js, Node.js, Nest.js, Spring Boot, Laravel.
 - **Tools & Technologies:** Docker, Git, AWS.
-- **Databases:** MySQL, MongoDB, Postgres Sql.
+- **Databases:** MySQL, MongoDB, PostgreSQL.
 
+## 📫 Let's Connect:
+- LinkedIn: [mideniyi](https://www.linkedin.com/in/mideniyi/)
+- Twitter: [@mide_niyi](https://twitter.com/mide_niyi)
+- Email: [mideolaniyi@outlook.com](mailto:mideolaniyi@outlook.com)
 
-
-## 📫 Contact
-- LinkedIn: https://www.linkedin.com/in/mideniyi/
-- Twitter: @mide_niyi
-- Email: mideolaniyi@outlook.com
-
-"Creativity is intelligence having fun." - Albert Einstein
+*"Creativity is intelligence having fun."* – Albert Einstein
