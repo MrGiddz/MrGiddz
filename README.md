@@ -18,6 +18,8 @@ I’m always eager to connect with fellow tech enthusiasts. Let’s innovate, co
 - **Tools & Technologies:** Docker, Git, AWS.
 - **Databases:** MySQL, MongoDB, PostgreSQL.
 
+  ![mrgiddz's Stats](https://github-readme-stats.vercel.app/api?username=mrgiddz&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
 ## 📫 Let's Connect:
 - LinkedIn: [mideniyi](https://www.linkedin.com/in/mideniyi/)
 - Twitter: [@mide_niyi](https://twitter.com/mide_niyi)
