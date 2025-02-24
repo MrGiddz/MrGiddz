@@ -19,6 +19,8 @@ I’m always eager to connect with fellow tech enthusiasts. Let’s innovate, co
 - **Databases:** MySQL, MongoDB, PostgreSQL.
 
   ![mrgiddz's Stats](https://github-readme-stats.vercel.app/api?username=mrgiddz&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+  ![mrgiddz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrgiddz&theme=vue-dark&hide_border=true)
+  ![mrgiddz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrgiddz&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ## 📫 Let's Connect:
 - LinkedIn: [mideniyi](https://www.linkedin.com/in/mideniyi/)
